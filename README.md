@@ -1,5 +1,7 @@
+# Narzędzia usprawniające pracę z Pythonem
+
 1. [better-exceptions](https://github.com/Qix-/better-exceptions)
-  - Czyni błędy bardziej czytelnymi oraz wyświetla więcej informacji.
+  - Czyni wyjątki bardziej czytelnymi oraz wyświetla więcej informacji.
   - Pomaga znaleźć dziwne błędy. Może nawet uda się uniknąć debuggera?
   - `pip install better_exceptions`
   - `export BETTER_EXCEPTIONS=1`
@@ -44,5 +46,5 @@
 7. [autojump](https://github.com/wting/autojump)
   - Zapomnij o `cd` - da się wygodniej.
   - `sudo apt install autojump`
-  - `echo ". /usr/share/autojump/autojump.sh" >> ${HOME}/.bashrc"
+  - `echo ". /usr/share/autojump/autojump.sh" >> ${HOME}/.bashrc"`
 
